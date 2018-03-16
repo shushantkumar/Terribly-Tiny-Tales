@@ -1,0 +1,33 @@
+.card {
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+    cursor: pointer;
+}
+
+#frequency {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#frequency td, #frequency th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#frequency tr:nth-child(even){background-color: #e6e6e6;}
+#frequency tr:nth-child(odd){background-color: #008080;}
+
+#frequency tr:hover {background-color: #a6a6a6;}
+
+#frequency th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    color: black;
+}

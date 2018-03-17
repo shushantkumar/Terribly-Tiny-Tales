@@ -129,12 +129,14 @@ In this project a number N can be entered by the user and when the user presses 
 * User can enter the number N and press Send and below the result is dispalyed , N = 15 
 ![](pic2.png)
 <br>
+* All the top 15 outputs 
 ![](pic3.png)
 <br>
 
-* N= 50 the top and bottom screenshots
+* N= 50 the top screenshot
 ![](pic4.png)
 <br>
+* Last of the table screenshot
 ![](pic5.png)
 <br>
 
